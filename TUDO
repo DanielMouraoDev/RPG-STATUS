@@ -1,0 +1,101 @@
+*QUANTO MAIS TIVER EM UM STATUS, MAIS TALENTOS DESSE STATUS VAI APARECER*
+
+QUANTO MAIS MAGIAS TIVER DE 1 ELEMENTO, MAIS CHANCES TERA DE APARECER MAIS MAGIAS OU HABILIDADES DESSE ELEMENTO
+
+
+Mecanicamente, todo o resultado do esforço do personagem é transformado em Experiencia, após um certo numerp de XP ser atingido o personagem upa de nível e o sistema de habilidade ativa. 
+
+6 "cartas" surgem com habilidades diferentes, cada uma referente aos atributos do personagem e a arma que o personagem está usando, dessas 6 cartas aleatorias, o jogador irá escolher uma delas para ficar pra si, o processo se repete mais 2 vezes, quando mais 6 cartas, referentes a classe do personagem surge, permitindo que, de acordo com o nível, o player escolha 1 ou 2 cartas de classe para si.  Por fim, a cada 2 niveis, ou a cada nivel, caso seja um arcanista, 6 cartas de magias surgem, onde o jogador escolhe 1 ou mais cartas de magia para receber a visão do símbolo. Obs: Quanto mais cartas pegar de um certo elemento, mais cartas desse elemento irão aparecer.
+
+QUEIMAR E CONGELAR CARTAS: Voce recebe uma carga de cada condiçao, ao escolher QUEIMAR uma carta, essa carta NUNCA mais irá aparecer para voce, e ao congelar uma carta, ela irá ficar salva para as proximas escolhas e para o proximo level, caso voce nao a escolha e upe novamente.
+
+OBS: Cartas mais fortes apenas aparecem ao atingir certas condiçoes e ao ter cartas mais fracas, entao QUEIMAR uma carta, pode te tirar toda uma arvore de magias ou habilidades da sua build.
+
+Todo level up libera 3 mãos de habilidades em 12 level ups, 1 visão de símbolos, ou a cada nivel caso seja um arcanista. 
+
+*ÁS:* Existe a possibilidade, aumentada conforme o level, de aparecer uma carta de habilidade melhor que uma comum, podendo mudar aspectos em suas magias, outras habilidades ou mudar como o seu personagem funciona.
+
+*Tirada da Neblina:* A cada dois niveis, um chamado da Neblina sussurra em seu interior conhecimentos além do permitido. Em termos tecnicos, sempre que ocorrer a Tirada da Neblina, voce recebe a opçao de escolher 1 carta especial que te oferece 2 habilidades possiveis aleatorias e caso esteja em nivel de receber uma visão, tambem receberá uma carta especial que te oferece 2 simbolos aleatórios.
+
+
+
+| NIVEL | VISÃO | NEBLINA | CLASSE | ATRIBUTO |
+| ----- | ----- | ------- | ------ | -------- |
+| 1     | **✔** |         | **✔**  |          |
+| 2     | **✔** | **✔**   | **✔**  |          |
+| 3     |       |         | **✔**  |          |
+| 4     | **✔** | **✔**   |        | **✔**    |
+| 5     |       |         | **✔**  |          |
+| 6     | **✔** | **✔**   | **✔**  |          |
+| 7     |       |         | **✔**  |          |
+| 8     | **✔** | **✔**   |        | **✔**    |
+| 9     | **✔** |         |        |          |
+| 10    | **✔** | **✔**   | **✔**  |          |
+| 11    |       |         | **✔**  |          |
+| 12    | **✔** | **✔**   |        | **✔**    |
+| 13    |       |         |        |          |
+| 14    | **✔** | **✔**   | **✔**  |          |
+| 15    |       |         | **✔**  |          |
+| 16    | **✔** | **✔**   |        | **✔**    |
+| 17    |       |         |        |          |
+| 18    | **✔** | **✔**   | **✔**  |          |
+| 19    | **✔** |         |        | **✔**    |
+| 20    | **✔** | **✔**   | **✔**  |          |
+
+
+PONTOS DE ESFORÇO: Pontos de esforço simbolizam o quanto que um personagem aguenta fazer açoes exaustivas. Mecanicamente falando, PE, é gasto para efetuar magias e habilidades.
+
+Pontos de esforço sao equivalente ao poder mental e fisico. sendo o PEM e o PEF. Onde  o PEM é definido pelo atributo de conjuraçao do personagem x5, enquanto  o PEF é definido pelo CONSTITUIÇAO X 5. 
+
+Ex: 10 de CON = 50 PEF
+
+TODO level up, voce aumenta os seus PE igualmente ao atributo que tiver.
+
+EX: 15 de INTELIGENCIA = +15 PEM
+
+*APERFEIÇOAMENTO:* No livro de dnd voce tem slots de magia, que podem ser usados para trasnformar magias de niveis menores em magias mais fortes. Aqui esse efeito secundario é o principal, os slots nao servem para soltar magias, apenas server para aperfeiçoar elas e SEMPRE adiciona +5 na habilidade por efeito utilizado.
+
+NIVEL DE CONJURAÇAO:
+
+O personagem pode usar amgia desde que ele tenha ao menos 10 do seu atriburo de conjuraçao e quanto maior o atributo for e melhor for seu lvl, melhor serão as visões.
+
+10 - 12 = 0 estrelas LVL 1- 3
+13 - 15 = 1 estrela LVL 4 - 8
+16 - 18 = 2 estrelas LVL 9 - 12
+19 - 20 = 3 estrelas LVL 13 - 20
+
+Quando voce atinge o lvl 12 e está prestes a atingir o apice das magias e habilidades desse mundo, voce terá que se aperfeiçoar, escolher um caminho que irá alterar suas habilidades conforme o caminho te guie.
+
+
+
+
+
+
+
+reforja de simbolo
+
+
+Um forjador consegue passar certos itens em seus símbolos, enfraquecendo o feitiço colocado e podendo modula-las para ganhar e perder caracteristicas, aumentando assim o seu potencial. Essa é uma habilidade apenas para Forjadores mais experientes (Somente O Forjador.) O limite padrão de reforjas em um simbolo sao de 3, além disso é como se o símbolo se sobrecarregasse de informaçao e simplesmente para de funcionar até que a alteraçao seja desfeita.
+
+
+*FRASCO COM A NEVOA:* Aumenta em 50% o tamanho base do efeito, mas perde 20% da distancia base do simbolo. (Nao funciona em efeitos corpo a corpo)
+
+*CHUVA DA NEVOA:* Aumenta em 25% o tamanho base da magia.
+
+*OLHO DE CRIATURA:* Aumenta o range base de um efeito que seja um projetil em 50%. 
+
+*CINZAS DE CRIATURA:* Aumenta o range base de um efeito em 25%. (caso seja um efeito corpo a corpo, aumente 1m de distancia para cada cinza)
+
+*SANGUE DE CRIATURA*: Aumenta em 1d base o dano do efeito para cada saco de sangue gasto.
+
+*CEREBRO DE CRIATURA:* Aumenta a duracao base dos efeitos em 25%
+
+*PELE DE CRIATURA:* Diminui pela metade a conjuracao de um efeito
+
+*ITEM RARO:* Repetidor de efeito: ativa o efeito do simbolo 2 vezes
+
+*REMOVEDORES DE REFORJA:* Alguns itens, como po de osso de uma criatura rara, consegue apagar todos os modificadores que voce colocou em um simbolo.
+
+*ELEMENTO VIBRANTE:* Aumenta a intensidade de efeitos de alguma energia.  
+
+*EFEITOS UNICOS:* Alguns itens especificos causam efeitos especificos  em certos simbolos, como se fosse uma mutacao, um exemplo simples, usar o nectar de uma flor de fogo em algum simbolo de fogo, fazendo com que ele cause eventuais explosoes.
